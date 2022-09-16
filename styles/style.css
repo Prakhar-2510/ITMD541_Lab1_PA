@@ -1,9 +1,20 @@
-p
+p.intro
 {
-    color:red;
+    
+    font-weight: bold;
+    
 }
+
+ul.subjects
+{
+    color: blue;
+    margin-left: 5px;
+}
+
 img
 {
 width: 100px;
-border-radius: 10px;
+border-radius: 50px;
+
+margin-right: 10px;
 }
