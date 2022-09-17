@@ -5,6 +5,12 @@ p.intro
     
 }
 
+h1
+{
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.997);
+}
+
 .course-details
 {
     background-color: red;
@@ -15,12 +21,17 @@ p.intro
     border-radius: 5px;
     cursor: pointer;
     margin-right: 10px;
+    transition: opacity 1s;
+    transition: box-shadow 1s;
 }
 
 .course-details:hover
 {
     opacity: 0.7;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
 }
+
+
 
 ul.subjects
 {
