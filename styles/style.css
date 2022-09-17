@@ -5,6 +5,12 @@ p.intro
     
 }
 
+button
+{
+    background-color: red;
+    color: white;
+}
+
 ul.subjects
 {
     color: blue;
