@@ -15,14 +15,19 @@ h1
     
     background-color: rgba(240, 65, 64, 0.997);
     color: white;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 18px;
+}
+.span-element
+{
+    cursor: pointer;
+    margin-left: 5px;
 }
 
 .span-element:hover
 {
 text-decoration: underline;
-cursor: pointer;
+
 }
 
 .course-details
