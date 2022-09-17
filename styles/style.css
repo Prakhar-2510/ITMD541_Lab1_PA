@@ -2,7 +2,8 @@ p{
     font-family: Arial;
 }
 
-p.guide-links
+
+.guide-links
 {
     font-size: 13px;
         
@@ -11,7 +12,17 @@ p.guide-links
 h1
 {
     text-align: center;
-    background-color: rgba(255, 0, 0, 0.997);
+    
+    background-color: rgba(240, 65, 64, 0.997);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.span-element:hover
+{
+text-decoration: underline;
+cursor: pointer;
 }
 
 .course-details
