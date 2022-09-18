@@ -3,10 +3,16 @@ p{
 }
 
 
+
 .guide-links
 {
     font-size: 13px;
         
+}
+
+.aref
+{
+    display: block;
 }
 
 h1
@@ -15,13 +21,12 @@ h1
     
     background-color: rgba(240, 65, 64, 0.997);
     color: white;
-    padding-top: 5px;
-    padding-bottom: 18px;
+   
 }
 .span-element
 {
     cursor: pointer;
-    margin-left: 5px;
+    margin-left: 8px;
 }
 
 .span-element:hover
@@ -60,10 +65,21 @@ ul.subjects
     margin-left: 5px;
 }
 
-img
+img.iit-link-image
+{
+    position: relative;
+    
+    width: 250px;
+    
+    margin-top: 20px;
+    margin-bottom: 15px;
+    
+}
+
+img.it-image
 {
 width: 250px;
 border-radius: 50px;
+margin-top: 2px;
 
-margin-right: 10px;
 }
