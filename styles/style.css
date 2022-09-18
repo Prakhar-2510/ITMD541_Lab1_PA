@@ -3,6 +3,52 @@ p{
 }
 
 
+.image_plus_seal
+{
+    width: 300px;
+    display: inline-block;
+  
+}
+
+.about-me
+{
+    display: block;
+}
+
+.my-description
+{
+    display: block;
+    font-family:cursive;
+}
+
+
+.about-me
+{
+    display: block;
+}
+
+.subject-intro,.schedule
+{
+    width: 1150px;
+}
+
+.my-intro
+{
+    font-weight: bold;
+   
+    
+    
+}
+
+.my-info
+{
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    float: right;
+    vertical-align: top;
+    
+}
 
 .guide-links
 {
@@ -74,6 +120,14 @@ img.iit-link-image
     margin-top: 20px;
     margin-bottom: 15px;
     
+}
+
+img.my-image
+{
+    position: relative;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 15px;
 }
 
 img.it-image
